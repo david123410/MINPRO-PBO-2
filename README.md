@@ -26,4 +26,4 @@
 
 7. Untuk keluar dari program, pilih menu 5
 
-![image](https://github.com/user-attachments/assets/e2f28bc0-e49e-470e-bba4-90f3becacc9a)
+![image](https://github.com/user-attachments/assets/fd57e1aa-5010-4ebe-a457-b778d00ae0e9)
